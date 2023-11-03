@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Static Analysis') {
             steps {
-                echo 'Slavi Dsa from TEITA' 
+                echo 'Slavi Dsa from TEITA roll no 27' 
             }
         }
         stage('Compile') {
